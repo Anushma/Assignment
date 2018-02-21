@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="batterylevel">Battery level</string>
+    <string name="modelname">Model Name</string>
+    <string name="osversion">Os Version</string>
+    <string name="batterystatus">Battery Status</string>
+    <string name="memoryavailability">Memory Availability</string>
+    <string name="weather">Weather Report</string>
+    <string name="network">Network Type</string>
+    <string name="device">Device Information</string>
+    <string name="description">description</string>
+    <string name="temparature">Temparature ,</string>
+    <string name="choose_time_interval">Choose time interval</string>
+    <string name="go">Go!</string>
+    <string name="connected_to">Connected to:</string>
+    <string name="external">External</string>
+    <string name="internal">Internal</string>
+    <string name="os_version">Os Version</string>
+    <string name="date">date</string>
+    <string name="device_info">Device Info</string>
+    <string name="battery">Battery</string>
+    <string name="memory">Memory</string>
+    <string name="weatherr">Weather</string>
+    <string name="history">History</string>
+    <string name="networkk">Network</string>
+
+</resources>
